@@ -1,0 +1,4 @@
+Hola, este es mi txt donde estoy usando por primera vez git.
+Este es un cambio de prueba.
+Añado más contenido al fichero.
+Cuarta línea(modificado desde IntelliJ)
