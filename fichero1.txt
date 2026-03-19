@@ -1,1 +1,2 @@
-Ahora estamos en la primera línea del fichero pero en la nueva rama feature/LuisCollado
+Esto es una funcionalidad nueva
+Modificado desde IntelliJ
