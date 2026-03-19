@@ -1,2 +1,1 @@
-Esto es una funcionalidad nueva
-Modificado desde IntelliJ
+Ahora estamos viendo un conflicto con merge
