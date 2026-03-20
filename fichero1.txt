@@ -5,3 +5,5 @@ Modificado desde IntelliJ
 Ahora estamos viendo un conflicto con merge y solucionarlo
 >>>>>>> feature/LuisCollado
 Aquí estamos, tranquilitos, aprendiendo a usar git y GitHub.
+
+Ahora quiero hacer un merge con el Branch bugfix
