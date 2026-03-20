@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Esto es una funcionalidad nueva
 Modificado desde IntelliJ
+=======
+Ahora estamos viendo un conflicto con merge y solucionarlo
+>>>>>>> feature/LuisCollado
+Aquí estamos, tranquilitos, aprendiendo a usar git y GitHub.
